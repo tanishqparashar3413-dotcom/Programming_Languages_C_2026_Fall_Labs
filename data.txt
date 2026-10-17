@@ -1,0 +1,3 @@
+Hello, World!
+This is Week 5.
+File I/O in C.
